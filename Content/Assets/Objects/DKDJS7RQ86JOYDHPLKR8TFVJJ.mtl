@@ -1,0 +1,63 @@
+newmtl mat_0-veh_ambulance_wheels_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_wheels_d.jpg
+
+newmtl mat_1-veh_ambulance_underside_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_underside_d.jpg
+
+newmtl mat_2-veh_ambulance_windows_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_windows_d.jpg
+
+newmtl mat_3-veh_ambulance_dam_02_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_dam_02_d.jpg
+
+newmtl mat_4-veh_ambulance_logo_dam_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_logo_dam_d.jpg
+
+newmtl mat_5-veh_ambulance_dam_02_1_d.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd veh_ambulance_dam_02_1_d.jpg
+
+newmtl mat_6-default-grey.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd default-grey.jpg
+
